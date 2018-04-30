@@ -1,0 +1,47 @@
+#span1
+{
+  color: green;
+}
+#span2
+{
+  color: blue;
+}
+#CSS
+{
+  color: red;
+}
+#jest
+{
+  color: green;
+}
+#wspaniały
+{
+  color: darkkhaki;
+}
+#p1
+{
+  background-color: #000FFF;
+}
+#p2
+{
+  background-color: rgb(59, 68, 75);
+}
+#p3
+{
+  background-color: hsl(57, 32%, 26%);
+}
+.container
+{
+  background-color: #45345F;
+  width: 200px;
+}
+#first
+{
+  background-color: darkblue;
+  width: 50%;
+}
+#second
+{
+  background-color: yellow;
+  width: 10em;
+}

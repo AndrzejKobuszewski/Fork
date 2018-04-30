@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+}
+.squarelist {
+  list-style-type: square;
+  color: yellow;
+}
+.menulist {
+  list-style: none;
+  float: left;
+  color: #116493;
+  background-color: white;
+  text-align: center;
+}
+.menulist > li{
+  display: inline-block;
+  padding: 15px;
+  text-transform: uppercase;
+  border: 1px dashed #116493;
+  margin: 0 20px;
+}
+.menulist > li :first-child {
+  padding-left: 0px;
+  margin-left: 0px;
+  }
+  /* Nie mogę się pozbyć z lewej strony białego tła w liście, tak aby wyglądało to symetrycznie

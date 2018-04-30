@@ -1,0 +1,30 @@
+body
+{
+background-color: blue;
+}
+
+#first-paragraph
+{
+  color: lime
+}
+#second-paragraph
+{
+  color: violet;
+}
+.brown-paragraph
+{
+  color: brown;
+}
+.block
+{
+width: 100px;
+height: 50px;
+border-width: 3px;
+border:red solid;
+    szerokość: 100px,
+    wysokość: 50px,
+    grubość obramowania: 3px,
+    styl obramowania: pojedyncza linia ciągła (solid),
+    kolor obramowania: czerwony.
+
+}

@@ -1,0 +1,34 @@
+#body
+{
+  font-family: Verdana, Arial, sans-serif;
+}
+#div1
+{
+  width: 500px;
+}
+#naglowek
+ {
+ background-color: #ACC4CE;
+ color: white;
+ font-size: 20px;
+ text-transform: uppercase;
+ text-align: center;
+ padding-top: 3px;
+ padding-bottom: 10px;
+ text-shadow:2px 5px 15px #878787;
+ }
+#podtytuł {
+  color: #395075;
+  letter-spacing: 10px;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: normal;
+  word-spacing: 5px;
+}
+#paragraf {
+  color: grey;
+  font-size: 14px;
+  line-height: : 2;
+  text-indent: 20px;
+  hyphens: auto;
+}
